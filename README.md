@@ -2,6 +2,7 @@
 We present a diagram window showing the internal ballistic input and output example. Combined with the trajectory program, the internal ballistic code allows the development of an interactive process leading to the preliminary missile profile.
 Nomenclature:
 A_d - diffuser area,
+D - diameter,
 F_gross - gross thrust,
 F - net thrust,
 ISP - specific impulse,
