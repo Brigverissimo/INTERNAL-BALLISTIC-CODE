@@ -1,5 +1,5 @@
 # INTERNAL-BALLISTIC-CODE
-We present a diagram window showing the internal ballistic input and output example. Combined with the trajectory program, the internal ballistic code allows the development of an interactive process leading to the preliminary missile profile.
+We present a diagram window showing the internal ballistic input and output example. Combined with external ballistic code, it allows the development of an interactive process leading to the preliminary missile profile.
 Nomenclature:
 A_d - diffuser area,
 F_gross - gross thrust,
