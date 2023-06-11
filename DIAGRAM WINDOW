@@ -1,6 +1,6 @@
 RAMJET PARAMETERS (MISSILE 1)
 
-t  Diameter       F    Length  rdot   OF
+t  Diameter           F    Length  rdot   OF
 0	0.18	0.18	 3.47	1.472	0.4802	42.53
 1	0.181	0.181	 3.47	1.475	0.4785	42.53
 2	0.1819	0.1819	3.47	1.477	0.4768	42.53
